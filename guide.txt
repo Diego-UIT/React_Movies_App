@@ -1,0 +1,6 @@
+npm i react-router-dom axios query-string sass swiper@6.8.4 --save
+npm install axios
+npm install query-string
+npm i react-router-dom
+npm i swiper
+npm install --save prop-types
